@@ -54,8 +54,8 @@ body {
   height: 60px;
   padding: 2px;
   padding-top: 8px;
-  font: 12px sans-serif;
-  color: white;
+  font: 14px sans-serif;
+  color: rgb(255, 255, 255);
   text-align: center;
   background: #005c86;
   border: 0;
